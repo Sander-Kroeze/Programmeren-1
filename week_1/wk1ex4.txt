@@ -1,0 +1,9 @@
+# Voert de code uit om overal geweest te zijn.
+0 *X** -> E 3
+0 *E** -> X 1
+1 X*** -> N 0
+1 N*** -> X 2
+2 **X* -> W 1
+2 **W* -> X 3
+3 ***x -> S 2
+3 ***S -> X 0

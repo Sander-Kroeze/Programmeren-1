@@ -1,0 +1,12 @@
+# Zorgt ervoor dat hij altijd linksbovin gaat.
+0 **X* -> W 0
+0 X*W* -> N 0
+0 N*W* -> X 1
+
+# Probeert omhoog te gaan
+1 ***X -> S 1
+1 ***S -> E 2
+
+# Probeert omlaag te gaan
+2 X*** -> N 2
+2 N*** -> E 1
