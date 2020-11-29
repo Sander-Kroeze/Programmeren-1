@@ -1,4 +1,1 @@
-"# Programmeren-I-Python" 
-# Programmeren-I
-# Programmeren-1
-# Programmeren-1
+Python opdrachten van het eerste jaar periode I
